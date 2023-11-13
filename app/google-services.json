@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642459610699",
+    "project_id": "pianotiles-c5cd8",
+    "storage_bucket": "pianotiles-c5cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642459610699:android:a9ebc73436c178bb5da7ce",
+        "android_client_info": {
+          "package_name": "com.alacrity.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVdaJFzi6WjnJrJGc9yjjmGo668tx1VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
